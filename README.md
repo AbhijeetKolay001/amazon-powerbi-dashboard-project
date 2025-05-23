@@ -43,7 +43,7 @@ This project presents a dynamic Power BI dashboard analyzing Amazon sales perfor
 
 ## 📷 Screenshot
 
-![Dashboard Preview](resume%20report%20amazon.png)
+![Dashboard Preview]()
 
 ---
 
